@@ -67,4 +67,17 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 
-#Dokumentasi
+## DOKUMENTASI
+1. Sesuaiakan databse di .env
+2. Lakukan migration database dengan mengetikkan "php artisan migrate"
+3. Jalankan Sever dengan mengetikkan command "php artisan serve"
+
+
+
+
+
+## link dokumentasi API
+
+
+
+## LINK DOKUMENTASI VIDEO
